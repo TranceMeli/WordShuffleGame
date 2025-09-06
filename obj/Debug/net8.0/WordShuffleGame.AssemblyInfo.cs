@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordShuffleGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da589928158eb774df55a0986cf4687f7c981c98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+810ad14b5132cd272d898c94a128e0f99b1eb35d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordShuffleGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordShuffleGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
