@@ -1,4 +1,4 @@
-# WordShuffleGame
+# Word Shuffle Game
 
 This is a WordShuffleGame<br>
 You see a list of words. In our case it's food cause I want to make you hungry.<br>
