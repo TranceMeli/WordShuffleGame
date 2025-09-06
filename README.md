@@ -7,4 +7,5 @@ Then it get's deleted.<br>
 A shuffled Word is shown and you have to guess iz right.<br>
 After a certain amount of wrong guesses it's Game Over!<br>
 
-<img width="762" height="198" alt="image" src="https://github.com/user-attachments/assets/82a4dcd4-d99e-42fe-a171-af74857104b4" />
+<img width="753" height="207" alt="image" src="https://github.com/user-attachments/assets/b4ccb242-cec4-4b71-bfd5-3587c690d4a9" />
+
