@@ -3,7 +3,7 @@
 This is a Word Shuffle Game.<br>
 You see a list of words.<br>
 In our case it's food, cause I want to make you hungry.<br>
-Then theh list get's deleted.<br>
+Then the list get's deleted.<br>
 A random shuffled Word from the list is shown and you have to guess it right.<br>
 After a certain amount of wrong guesses it's Game Over!<br>
 
